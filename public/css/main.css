@@ -8,6 +8,8 @@
 body {
     height: 100vh;
     color: white;
+    /*EB:0123456789ABCDEF*/
+    background: #EBF2F5;
 }
 
 :root {
