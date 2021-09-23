@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Happy Orfanato" src="https://github.com/Julianamcs/happy/tree/main/public/images/HappyReadMe.jpg" width="100%">
+  <img alt="Happy Orfanato" src="https://github.com/Julianamcs/happy/blob/main/public/images/HappyReadMe.jpg" width="100%">
 </p>
 
 <p align="center">
